@@ -1,2 +1,2 @@
-tabs: ['README.md', 'style-guide.html']
-terminal-one: yarn && yarn start --port $PUBLIC_PORT
+tabs: ["README.md", "style-guide.html"]
+terminal-one: yarn && yarn dev
