@@ -1,2 +1,3 @@
 tabs: ["README.md", "style-guide.html"]
 terminal-one: yarn && yarn dev
+live-reload-browser: false
